@@ -1,7 +1,7 @@
 Cryptocurrency 15 Minute Return Forecasting
 ====================================================
 
-#### Authors: [Aidan Jackson](https://github.com/aidan-jackson-data) | [Piotr Parkitny](https://github.com/pparkitn) | [Sandip Panesar](https://github.com/sandzp) |
+#### Authors: [Aidan Jackson](https://github.com/aidan-jackson-data) | [Piotr Parkitny](https://github.com/pparkitn) | [Sandip Panesar](https://github.com/sandzp)
 
 Spring 2022
 
@@ -32,7 +32,7 @@ The 14 coins were:
 * Stellar
 * TRON
 
-Note that some individuals and economic theories, such as the [efficient market hypothesis](https://en.wikipedia.org/wiki/Efficient-market_hypothesis), hold that characteristics such as price, and dependent quantities such as return or volatility, are impossible to predict by their nature. Whether or not this is correct, any set of repeated forecasts should take into consideration the number of attempts when judging the significance of a result. For example, if 100 different forecasts are made on the same time series, is it really surprising if 5 of them would have resulted in great returns? How much money would you be willing to stake if you repeat that forecast into the future?
+*Note that some individuals and economic theories, such as the [efficient market hypothesis](https://en.wikipedia.org/wiki/Efficient-market_hypothesis), hold that characteristics such as price, and dependent quantities such as return or volatility, are impossible to predict by their nature. Whether or not this is correct, any set of repeated forecasts should take into consideration the number of attempts when judging the significance of a result. For example, if 100 different forecasts are made on the same time series, is it really surprising if 5 of them would have resulted in great returns? How much money would you be willing to stake if you repeat that forecast into the future?
 
 ## Results
 
