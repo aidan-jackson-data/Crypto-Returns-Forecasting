@@ -32,6 +32,20 @@ The 14 coins were:
 * Stellar
 * TRON
 
+Data was recorded in a long format, with each entry representing a unique observation of a given cross section at a given time. For a given coin in a given minute, the following information was included:
+
+* Target (15 Minute Return, the outcome variable to predict)
+* Count (Number of transactions during the minute)
+* Volume (Number of coins traded during the minute)
+* Open (Opening price at the start of the minute)
+* Close (Closing price at the end of the minute)
+* High (Maximum price during the minute)
+* Low (Minimum price during the minute)
+* VWAP (Volume Weighted Average Price during the minute)
+* Asset ID (Unique identifier for each coin)
+* Timestamp (Minute index)
+
+
 *Note that some individuals and economic theories, such as the [efficient market hypothesis](https://en.wikipedia.org/wiki/Efficient-market_hypothesis), hold that characteristics such as price, and dependent quantities such as return or volatility, are impossible to predict by their nature. Whether or not this is correct, any set of repeated forecasts should take into consideration the number of attempts when judging the significance of a result. For example, if 100 different forecasts are made on the same time series, is it really surprising if 5 of them would have resulted in great returns? How much money would you be willing to stake if you repeat that forecast into the future?
 
 ## Results
