@@ -32,11 +32,11 @@ The 14 coins were:
 * Stellar
 * TRON
 
-Data was recorded in a long format, with each entry representing a unique observation of a given cross section at a given time. For a given coin in a given minute, the following information was included:
+Data was recorded in long format, with each entry representing a unique observation of a given cross section at a given time. For a given coin in a given minute, the following information was included:
 
 * Target (15 Minute Return, the outcome variable to predict)
 * Count (Number of transactions during the minute)
-* Volume (Number of coins traded during the minute)
+* Volume (Number of units traded during the minute)
 * Open (Opening price at the start of the minute)
 * Close (Closing price at the end of the minute)
 * High (Maximum price during the minute)
