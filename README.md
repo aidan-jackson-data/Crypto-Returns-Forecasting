@@ -53,7 +53,7 @@ Data was recorded in long format, with each entry representing a unique observat
 In this project, the final three months worth of data was set aside as a test set. This is comparable to the Kaggle competition, but is not an exact match nor were these models entered. Their potential leaderboard ranking should they have been, assuming similar performance, is shown below.
 
 |Model | Weighted Average Correlation | Potential Leaderboard Ranking |
-|:------|:-------|:------------|
+|:------:|:-------:|:------------:|
 |ARX(6) |0.0058|294/1969 (Top 15%)|
 |VARX(15) |0.0077|196/1969 (Top 10%)|
   
