@@ -3,7 +3,7 @@ Cryptocurrency 15 Minute Return Forecasting
 
 #### Authors: [Aidan Jackson](https://github.com/aidan-jackson-data) | [Piotr Parkitny](https://github.com/pparkitn) | [Sandip Panesar](https://github.com/sandzp)
 
-Spring 2022
+Winter 2021
 
 ## Disclaimer
 
